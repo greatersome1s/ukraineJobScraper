@@ -1,2 +1,2 @@
 # ukraineJobScraper
-Scrapes ukrainian job listing sites for searched job
+Scrapes ukrainian job listing sites for searched job. Scrapes work.ua and robota.ua
